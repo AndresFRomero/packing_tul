@@ -7,7 +7,7 @@
 			"weight": 2000,
 			"quantity": 5,
             "fragile": true,
-            "plletized": true
+            "palletized": true
 		}
     },
     "fleet": {
@@ -19,7 +19,7 @@
 			"lengthCapacity": 200
 		},
 		"Sencillo": {
-			"weightCapacity": 1000,
+			"weightCapacity": 10000,
             "volumeCapacity": 24,
             "widthCapacity": 300,
             "heightCapacity": 200,
