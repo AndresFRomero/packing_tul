@@ -1,0 +1,29 @@
+{
+	"products": {
+		"A": {
+			"length": 120,
+			"width": 120,
+			"height": 120,
+			"weight": 2000,
+			"quantity": 5,
+            "fragile": true,
+            "palletized": true
+		}
+    },
+    "fleet": {
+		"Carry": {
+			"weightCapacity": 800,
+			"volumeCapacity": 4.5,
+            "widthCapacity": 150,
+            "heightCapacity": 150,
+			"lengthCapacity": 200
+		},
+		"Sencillo": {
+			"weightCapacity": 10000,
+            "volumeCapacity": 24,
+            "widthCapacity": 300,
+            "heightCapacity": 200,
+			"lengthCapacity": 600
+		}
+	}
+}

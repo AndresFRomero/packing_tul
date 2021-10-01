@@ -1,0 +1,516 @@
+{
+	"truck": {
+		"id": 3,
+		"length": 600,
+		"width": 200,
+		"height": 200,
+		"weightCapacity": 5000,
+		"name": "Turbo"
+	},
+	"products": {
+		"2321": {
+			"category_id": 24,
+			"length": 600.0,
+			"width": 2.13,
+			"height": 2.13,
+			"weight": 0.94,
+			"quantity": 43
+		},
+		"3548": {
+			"category_id": 268,
+			"length": 0.0,
+			"width": 0.0,
+			"height": 0.0,
+			"weight": 0.11,
+			"quantity": 12
+		},
+		"3562": {
+			"category_id": 134,
+			"length": 18.0,
+			"width": 10.0,
+			"height": 7.0,
+			"weight": 0.5,
+			"quantity": 12
+		},
+		"10238": {
+			"category_id": 54,
+			"length": 2.68,
+			"width": 2.68,
+			"height": 2.54,
+			"weight": 0.008,
+			"quantity": 3
+		},
+		"9539": {
+			"category_id": 223,
+			"length": 122.0,
+			"width": 244.0,
+			"height": 0.4,
+			"weight": 17.79,
+			"quantity": 50
+		},
+		"36088": {
+			"category_id": 93,
+			"length": 44.0,
+			"width": 9.0,
+			"height": 60.0,
+			"weight": 25.0,
+			"quantity": 10
+		},
+		"11066": {
+			"category_id": 215,
+			"length": 8.0,
+			"width": 45.4,
+			"height": 52.4,
+			"weight": 0.91,
+			"quantity": 3
+		},
+		"1098": {
+			"category_id": 383,
+			"length": 30.48,
+			"width": 2.0,
+			"height": 0.2,
+			"weight": 0.02,
+			"quantity": 3
+		},
+		"2244": {
+			"category_id": 19,
+			"length": 18.0,
+			"width": 2.54,
+			"height": 4.5,
+			"weight": 0.02,
+			"quantity": 3
+		},
+		"919": {
+			"category_id": 33,
+			"length": 600.0,
+			"width": 1.2,
+			"height": 1.2,
+			"weight": 5.32,
+			"quantity": 202
+		},
+		"10281": {
+			"category_id": 54,
+			"length": 2.15,
+			"width": 2.15,
+			"height": 3.69,
+			"weight": 0.06,
+			"quantity": 156
+		},
+		"3040": {
+			"category_id": 264,
+			"length": 30.0,
+			"width": 11.0,
+			"height": 7.0,
+			"weight": 0.92,
+			"quantity": 10
+		},
+		"3078": {
+			"category_id": 264,
+			"length": 15.0,
+			"width": 7.0,
+			"height": 7.0,
+			"weight": 0.38,
+			"quantity": 32
+		},
+		"3532": {
+			"category_id": 264,
+			"length": 20.0,
+			"width": 20.0,
+			"height": 9.0,
+			"weight": 1.44,
+			"quantity": 10
+		},
+		"10261": {
+			"category_id": 26,
+			"length": 1.05,
+			"width": 0.55,
+			"height": 0.36,
+			"weight": 0.132,
+			"quantity": 31
+		},
+		"6921": {
+			"category_id": 54,
+			"length": 30.0,
+			"width": 30.0,
+			"height": 15.0,
+			"weight": 1.1,
+			"quantity": 2
+		},
+		"7052": {
+			"category_id": 54,
+			"length": 25.0,
+			"width": 25.0,
+			"height": 10.0,
+			"weight": 1.56,
+			"quantity": 2
+		},
+		"10264": {
+			"category_id": 26,
+			"length": 1.05,
+			"width": 0.55,
+			"height": 0.36,
+			"weight": 0.044,
+			"quantity": 26
+		},
+		"10296": {
+			"category_id": 54,
+			"length": 6.02,
+			"width": 6.02,
+			"height": 3.5,
+			"weight": 0.14,
+			"quantity": 10
+		},
+		"10309": {
+			"category_id": 12,
+			"length": 14.0,
+			"width": 45.0,
+			"height": 14.0,
+			"weight": 42.5,
+			"quantity": 2
+		},
+		"3081": {
+			"category_id": 58,
+			"length": 31.0,
+			"width": 10.0,
+			"height": 10.0,
+			"weight": 1.24,
+			"quantity": 2
+		},
+		"8780": {
+			"category_id": 201,
+			"length": 8.4,
+			"width": 17.0,
+			"height": 19.4,
+			"weight": 0.06,
+			"quantity": 2
+		},
+		"3070": {
+			"category_id": 58,
+			"length": 31.0,
+			"width": 10.0,
+			"height": 10.0,
+			"weight": 1.24,
+			"quantity": 2
+		},
+		"7307": {
+			"category_id": 54,
+			"length": 5.0,
+			"width": 2.6,
+			"height": 5.0,
+			"weight": 0.03,
+			"quantity": 30
+		},
+		"8782": {
+			"category_id": 201,
+			"length": 13.2,
+			"width": 13.8,
+			"height": 18.6,
+			"weight": 0.06,
+			"quantity": 2
+		},
+		"2018": {
+			"category_id": 12,
+			"length": 14.0,
+			"width": 45.0,
+			"height": 14.0,
+			"weight": 50.0,
+			"quantity": 7
+		},
+		"6972": {
+			"category_id": 26,
+			"length": 8.2,
+			"width": 8.2,
+			"height": 4.31,
+			"weight": 0.642,
+			"quantity": 1
+		},
+		"3564": {
+			"category_id": 80,
+			"length": 10.0,
+			"width": 18.0,
+			"height": 7.0,
+			"weight": 0.5,
+			"quantity": 6
+		},
+		"3837": {
+			"category_id": 24,
+			"length": 600.0,
+			"width": 2.13,
+			"height": 2.13,
+			"weight": 0.94,
+			"quantity": 1
+		},
+		"7088": {
+			"category_id": 26,
+			"length": 8.0,
+			"width": 8.0,
+			"height": 18.0,
+			"weight": 0.963,
+			"quantity": 25
+		},
+		"3077": {
+			"category_id": 58,
+			"length": 31.0,
+			"width": 20.0,
+			"height": 10.0,
+			"weight": 2.48,
+			"quantity": 6
+		},
+		"3584": {
+			"category_id": 87,
+			"length": 0.0,
+			"width": 0.0,
+			"height": 0.0,
+			"weight": 100.0,
+			"quantity": 6
+		},
+		"6544": {
+			"category_id": 58,
+			"length": 15.0,
+			"width": 20.0,
+			"height": 23.0,
+			"weight": 0.1265,
+			"quantity": 1
+		},
+		"3547": {
+			"category_id": 268,
+			"length": 18.0,
+			"width": 10.0,
+			"height": 3.0,
+			"weight": 0.22,
+			"quantity": 6
+		},
+		"10485": {
+			"category_id": 222,
+			"length": 10.0,
+			"width": 9.0,
+			"height": 2.0,
+			"weight": 0.05,
+			"quantity": 6
+		},
+		"3541": {
+			"category_id": 268,
+			"length": 0.0,
+			"width": 0.0,
+			"height": 0.0,
+			"weight": 0.05,
+			"quantity": 1
+		},
+		"2241": {
+			"category_id": 19,
+			"length": 34.0,
+			"width": 22.86,
+			"height": 7.0,
+			"weight": 0.18,
+			"quantity": 6
+		},
+		"3539": {
+			"category_id": 268,
+			"length": 18.0,
+			"width": 10.0,
+			"height": 3.0,
+			"weight": 0.22,
+			"quantity": 1
+		},
+		"2235": {
+			"category_id": 19,
+			"length": 34.0,
+			"width": 22.86,
+			"height": 8.0,
+			"weight": 0.18,
+			"quantity": 1
+		},
+		"3549": {
+			"category_id": 268,
+			"length": 18.0,
+			"width": 10.0,
+			"height": 2.0,
+			"weight": 0.14,
+			"quantity": 1
+		},
+		"10362": {
+			"category_id": 293,
+			"length": 5.0,
+			"width": 6.0,
+			"height": 6.0,
+			"weight": 0.02,
+			"quantity": 6
+		},
+		"10403": {
+			"category_id": 246,
+			"length": 2.5,
+			"width": 10.0,
+			"height": 3.0,
+			"weight": 0.14,
+			"quantity": 1
+		},
+		"10299": {
+			"category_id": 54,
+			"length": 2.15,
+			"width": 2.15,
+			"height": 3.74,
+			"weight": 0.012,
+			"quantity": 100
+		},
+		"3519": {
+			"category_id": 267,
+			"length": 11.2,
+			"width": 25.0,
+			"height": 14.0,
+			"weight": 4.3,
+			"quantity": 5
+		},
+		"10664": {
+			"category_id": 75,
+			"length": 0.67,
+			"width": 0.35,
+			"height": 0.48,
+			"weight": 0.1,
+			"quantity": 1
+		},
+		"6815": {
+			"category_id": 26,
+			"length": 105.0,
+			"width": 55.0,
+			"height": 36.0,
+			"weight": 7.49,
+			"quantity": 1
+		},
+		"1878": {
+			"category_id": 24,
+			"length": 600.0,
+			"width": 2.68,
+			"height": 2.68,
+			"weight": 1.82,
+			"quantity": 1
+		},
+		"35487": {
+			"category_id": 153,
+			"length": 10.3,
+			"width": 4.0,
+			"height": 2.3,
+			"weight": 0.05,
+			"quantity": 5
+		},
+		"9541": {
+			"category_id": 223,
+			"length": 122.0,
+			"width": 244.0,
+			"height": 0.8,
+			"weight": 35.48,
+			"quantity": 5
+		},
+		"2602": {
+			"category_id": 93,
+			"length": 35.0,
+			"width": 7.0,
+			"height": 45.0,
+			"weight": 25.0,
+			"quantity": 16
+		},
+		"2704": {
+			"category_id": 239,
+			"length": 244.0,
+			"width": 2.0,
+			"height": 2.0,
+			"weight": 0.25,
+			"quantity": 50
+		},
+		"10239": {
+			"category_id": 54,
+			"length": 3.36,
+			"width": 3.36,
+			"height": 2.94,
+			"weight": 0.05,
+			"quantity": 4
+		},
+		"35452": {
+			"category_id": 154,
+			"length": 2.3,
+			"width": 7.0,
+			"height": 11.3,
+			"weight": 0.03,
+			"quantity": 4
+		},
+		"35480": {
+			"category_id": 293,
+			"length": 2.0,
+			"width": 7.0,
+			"height": 11.0,
+			"weight": 0.02,
+			"quantity": 4
+		},
+		"1883": {
+			"category_id": 32,
+			"length": 300.0,
+			"width": 2.13,
+			"height": 2.13,
+			"weight": 0.45,
+			"quantity": 4
+		},
+		"3546": {
+			"category_id": 268,
+			"length": 18.0,
+			"width": 10.0,
+			"height": 4.0,
+			"weight": 0.29,
+			"quantity": 15
+		},
+		"10286": {
+			"category_id": 54,
+			"length": 2.15,
+			"width": 2.15,
+			"height": 4.87,
+			"weight": 0.037,
+			"quantity": 4
+		},
+		"35485": {
+			"category_id": 253,
+			"length": 10.0,
+			"width": 34.0,
+			"height": 31.0,
+			"weight": 1.12,
+			"quantity": 4
+		},
+		"10285": {
+			"category_id": 54,
+			"length": 2.68,
+			"width": 2.68,
+			"height": 4.06,
+			"weight": 0.016,
+			"quantity": 4
+		},
+		"10283": {
+			"category_id": 54,
+			"length": 3.36,
+			"width": 3.36,
+			"height": 4.72,
+			"weight": 0.037,
+			"quantity": 1
+		},
+		"2247": {
+			"category_id": 19,
+			"length": 22.0,
+			"width": 10.16,
+			"height": 4.5,
+			"weight": 0.05,
+			"quantity": 1
+		},
+		"6541": {
+			"category_id": 80,
+			"length": 5.0,
+			"width": 33.0,
+			"height": 5.0,
+			"weight": 0.1025,
+			"quantity": 1
+		},
+		"9325": {
+			"category_id": 266,
+			"length": 6.8,
+			"width": 11.2,
+			"height": 16.6,
+			"weight": 0.12,
+			"quantity": 1
+		}
+	}
+}
