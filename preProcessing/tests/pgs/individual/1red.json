@@ -1,0 +1,20 @@
+{
+	"products": {
+		"10299": {
+			"length": 30,
+			"width": 50,
+			"height": 10,
+			"weight": 50,
+			"quantity": 200,
+            "fragile": true,
+            "pallet": "A"
+		}
+    },
+    "pallets":{
+        "A":{
+            "length": 120,
+            "width": 120,
+            "height": 120
+        }
+    }
+}

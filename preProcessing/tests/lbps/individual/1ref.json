@@ -1,0 +1,21 @@
+{
+	"products": {
+		"A": {
+			"length": 120,
+			"width": 120,
+			"height": 120,
+			"weight": 2000,
+			"quantity": 5,
+      "fragile": true,
+      "palletized": true
+		}
+    },
+    "truck":{
+        "name": "Sencillo",
+        "weightCapacity": 1000,
+        "volumeCapacity": 24,
+        "widthCapacity": 300,
+        "heightCapacity": 200,
+        "lengthCapacity": 600
+	}
+}
