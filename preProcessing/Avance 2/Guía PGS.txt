@@ -1,0 +1,20 @@
+#Crear la lista con la información de los pallets
+#pallet_list = [info_pallet_1, ..., info_pallet_n]
+#info_pallet_i = [Nombre, Volumen]
+
+
+#fragile_product_list stucture:
+#fragile_product_list=[pallet_1_products, ..., pallet_n_products]
+#pallet_1_products=[product_1_info, ..., product_n_info]
+#product_1_info=[unitary_weight, quantity, total_volume, unitary_volume]
+
+#non_fragile_product_list stucture:
+#non_fragile_product_list = [pallet_1_products, ..., pallet_n_products]
+#pallet_1_products = [product_1_info, ..., product_n_info]
+#product_1_info = [unitary_weight, quantity, unitary_volume]
+
+
+#fragile_pallet_list stucture:
+#fragile_pallet_list=[pallet_1_products, ..., pallet_n_products]
+#pallet_1_products=[product_1_info, ..., product_n_info]
+#product_1_info=[pallet_weight, quantity, total_volume, unitary_volume]
